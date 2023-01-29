@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=marjorylima&repo=marjorylima&theme=dracula)](https://github.com/marjorylima/marjorylima)
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="MelLima-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -77,4 +77,6 @@ Here are some ideas to get you started:
     ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
   </div>
   
-  
+
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=marjorylima&repo=marjorylima&theme=dracula)](https://github.com/marjorylima/marjorylima)
+ 
