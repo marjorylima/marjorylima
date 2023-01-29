@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 
 <!--
 <div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjorylima&show_icons=true&theme=transparent)
-</div>
-
-
-<div>
   <a href="https://github.com/marjorylima">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=marjorylima&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorylima&layout=compact&langs_count=7&theme=react" />
@@ -79,17 +74,13 @@ Here are some ideas to get you started:
  <a href="https://api.whatsapp.com/send?phone=5531975020841&text=" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marjory.lim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marjory-lima-devsalesforce" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
-  
   </div>
   
-   ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
   
-
   <!--
   <div>
-    ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
   </div>
  
 
