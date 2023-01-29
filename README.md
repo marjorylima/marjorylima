@@ -1,3 +1,4 @@
+
 ### <div align = "center">Hey! eu sou a Marjory Lima 👋</div>
 <div align = "right">
 <img align="right" alt="MelLima-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/117916420/215355695-cb65fa12-39bc-4bf4-925d-7de836304d44.gif">
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!--
 <div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marjorylima&show_icons=true&theme=transparent)
@@ -78,10 +80,13 @@ Here are some ideas to get you started:
   <a href = "mailto:marjory.lim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marjory-lima-devsalesforce" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
+ 
   
   </div>
   
+   ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
+  
+
   <!--
   <div>
     ![Snake animation](https://github.com/marjorylima/marjorylima/blob/output/github-contribution-grid-snake.svg)
